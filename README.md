@@ -9,67 +9,42 @@
 <li>Currently learning Web Development by Self</li>
 <li>Personal website <a href="https://www.mohanad.ml">link</a></li>
 <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://read.cv/mohanad">my resume</a></li>
+<br>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
 <h2>🧑‍💻 Skills</h2>
-<br>
-<p align="center">
-</p><ul>
-<li>
+<p align="center"></p>
 <p><strong>Languages</strong>:</p>
 <p><img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"></p>
-</li>
-</ul>
-<br>   
-<ul>
-<li>
+<br>
 <p><strong>Front-End Development</strong>:</p>
 <p><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"></p>
-</li>
-</ul>
-<br>
-<ul>
-<li>
+<br> 
 <p><strong>Cloud Hosting</strong>:</p>
 <p><img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Github Pages"></p>
-</li>
-</ul>
 <br>
-<ul>
-<li>
 <p><strong>Softwares and Tools</strong>:</p>
 <p><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"></p>
-</li>
-</ul>
-<br>
-<ul>
-<li>
+<br> 
 <p><strong>Extras</strong>:</p>
 <p><img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Terminal">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2>📊 GitHub stats</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohanad8t&show_icons=true&theme=radical" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanad8t&layout=compact&theme=radical" width="45%" />
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/mohanad8t" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/mohanad8t" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/mohanad8t" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.youtube.com/mohanad8t" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-<div align="center">
-<h2 id="السَّلاَمُ-عَلَيْكُمْ-وَرَحْمَةُ-اللهِ-وَبَرَكَاتُهُ"><b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ…✨</b></h2>
-</div>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<br>
