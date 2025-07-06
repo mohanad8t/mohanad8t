@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..♥++;Self-taught+Front-End+Developer;STEM+Alex+Student;CTF+Newbie;Active+Learner%2FResearcher;Love+to+learn+new+stuffs..%3C3" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=STEM%20Alex%20Student;Web%20Developer;Backend%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&vCenter=true&width=650&height=120&color=58a6ff&size=45" />
   </a>
 </p>
 
